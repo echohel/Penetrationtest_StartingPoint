@@ -1,4 +1,4 @@
-```markdown
+
 # startingpoint.sh
 
 ## Description
