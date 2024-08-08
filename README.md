@@ -1,5 +1,3 @@
-Hier ist der Inhalt für eine `README.md`-Datei, die die Verwendung und Funktionalität des `startingpoint.sh`-Skripts beschreibt:
-
 ```markdown
 # startingpoint.sh
 
@@ -53,7 +51,6 @@ This will perform a ping scan on the specified IP range, identify live hosts, pe
 
 ## License
 
-This script is provided "as is" without warranty of any kind, and is intended for educational purposes only. Use it responsibly and only on systems for which you have explicit permission to test.
+This script is provided "as is" without warranty of any kind, and is intended for educational purposes only. Use it responsibly and only on systems for which you have explicit permission to test. 
 ```
 
-This `README.md` provides a clear and concise description of the script, how to make it executable, how to run it, and what output to expect. It also includes an example usage and a note on responsible use.
